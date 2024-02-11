@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Flow</string>
+    <string name="error_no_internet">Lo siento, revisa tu conexion</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="welcome_label">Bienvenido</string>
+    <string name="welcome_subtitle">Elige una opcion</string>
+    <string name="character_label">Personajes</string>
+    <string name="character_description">Personajes imagen</string>
+    <string name="episodes_label">Episodios</string>
+    <string name="episodes_description">Episodios imagen</string>
+    <string name="locations_label">Lugares</string>
+    <string name="locations_description">Lugares imagen</string>
+    <string name="character_item_origin">Origen: %1$s</string>
+    <string name="character_item_location">Ubicacion Actual: %1$s</string>
+    <string name="error_description">Error imagen</string>
+    <string name="back_description">Atras</string>
+    <string name="try_again_label">Reintentar</string>
+    <string name="try_again_message">Lo sentimos ocurrio un error, intenta nuevamente</string>
+    <string name="detail_label">Detalle</string>
+    <string name="episode_item_date">Fecha de emision: %1$s</string>
+    <string name="location_item_dimension">Dimension: %1$s</string>
+
+
+
+</resources>
