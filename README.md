@@ -6,7 +6,7 @@ This is a demo app for flow challenge
 
 
 
-###Architecture
+### Architecture
 
 ![mvvm](https://github.com/niniparraaria/Flow/assets/21028798/aca09a80-e079-4a1e-bd73-c6439daf2c28)
 
